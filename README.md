@@ -139,6 +139,8 @@ Bot otomatisasi berbasis terminal untuk berinteraksi dengan kontrak R2USD di ber
 Dukung kemanusiaan untuk Palestina:
 https://digital.dompetdhuafa.org/donasi/jagapalestina
 
+---
+
 ## Follow
 
 TikTok: @Souiy1

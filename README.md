@@ -89,14 +89,6 @@ Bot otomatisasi berbasis terminal untuk berinteraksi dengan kontrak R2USD di ber
 
 - [Instalasi](#instalasi)
 
-- [Konfigurasi](#konfigurasi)
-
-- [Panduan Penggunaan](#panduan-penggunaan)
-
-- [Pemecahan Masalah](#pemecahan-masalah)
-
-- [Keamanan](#keamanan)
-
 - [Donasi](#donasi)
 
 - [Follow](#follow)
@@ -142,11 +134,13 @@ Bot otomatisasi berbasis terminal untuk berinteraksi dengan kontrak R2USD di ber
 
 ---
 
-Donasi
+## Donasi
+
 Dukung kemanusiaan untuk Palestina:
 https://digital.dompetdhuafa.org/donasi/jagapalestina
 
-Follow
+## Follow
+
 TikTok: @Souiy1
 
 YouTube: @souiybelang2524

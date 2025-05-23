@@ -883,7 +883,7 @@ function updateWelcomeBox() {
     `{center}{bold}{bright-yellow-fg}Version : ${botVersion}{/bright-yellow-fg}{/bold}{/center}\n` +
     `{center}{bold}{bright-cyan-fg}➥ FOLLOW TIKTOK : @Souiy1{/bright-cyan-fg}{/bold}{/center}\n` +
     `{center}{bold}{bright-cyan-fg}➥ Subscribe : Youtube.com/@souiybelang2524{/bright-cyan-fg}{/bold}{/center}\n` +
-    `{center}{bold}{grey-fg}Donate : Satukan Solidaritas Bantu Palestina
+    `{center}{bold}{bright-yellow-fg}Donate : Satukan Solidaritas Bantu Palestina
 https://digital.dompetdhuafa.org/donasi/jagapalestina?gad_source=1&gad_campaignid=19753975814&gbraid=0AAAAADAhM1vRaR8mSktNHoNTW0ZytKlxb&gclid=Cj0KCQjwucDBBhDxARIsANqFdr2JxZgjGKTdpImD7icmr6UG3c6XnjjAKe83JIZeCR3MtFc64nHIscwaAg0UEALw_wcB
 Innalillahi! Lebih dari 50.983 syahid terbunuh, 70% korban anak-anak dan perempuan. Kuatkan solidaritas sekarang!{/bright-yellow-fg}{/bold}{/center}\n`;
 
